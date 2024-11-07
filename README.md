@@ -2,11 +2,9 @@
 
 ## GitHub Actions
 
-[![Build and Tests](https://github.com/ugioni/playwright-e2e/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/ugioni/playwright-e2e/actions/workflows/node.js.yml)
+[![Build and Tests](https://github.com/Bruno-Venturini/BrunoFreloVenturini-TURMA02-playwright/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/Bruno-Venturini/BrunoFreloVenturini-TURMA02-playwright/actions/workflows/node.js.yml)
 
 ## SonarCloud
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ugioni_playwright-e2e&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ugioni_playwright-e2e)
 
 ## Getting Started
 
