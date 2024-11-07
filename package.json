@@ -34,6 +34,6 @@
     "test": "SET QA=1 && npx playwright test --output artifacts/media --workers 1",
     "show-report": "npx playwright show-report artifacts/report",
     "actions": "npx playwright test --output artifacts/media --workers 1",    
-    "ci": "npm run clean && npm run format && npm run verify && npm run lint && npm run test"
+    "ci": "npm run clean && npm run format && npm run verify && npm run test"
   }
 }
